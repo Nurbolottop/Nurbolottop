@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 <details>
  
-![ 207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc] href = "https://www.instagram.com/erk1nbaew/" (https://user-images.githubusercontent.com/108578199/207312885-efe7ee3a-c423-4878-84da-3929a3cb47fb.png)
+![href = "https://www.instagram.com/erk1nbaew/"](https://user-images.githubusercontent.com/108578199/207312885-efe7ee3a-c423-4878-84da-3929a3cb47fb.png)
 
  
 [1]: 
