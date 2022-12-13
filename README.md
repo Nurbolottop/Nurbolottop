@@ -22,7 +22,7 @@
 ________________________________________________________________________________________![Night-Coding](https://user-images.githubusercontent.com/108578199/207307941-db5ca547-c2b7-4aa1-b121-dbaa56a7e531.gif)
                                                                                               
                                                                                               
-⚙️ GitHub Analytics
+🤝🏻  Connect with Me
 
-![image](https://user-images.githubusercontent.com/108578199/207308695-99697e03-fb2f-4cbb-8364-79f380d0aeea.png)
+![image](https://user-images.githubusercontent.com/108578199/207309145-5f046fbb-6aa7-4103-bf35-c22d1d773fea.png)
 
