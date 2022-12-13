@@ -23,7 +23,7 @@ ________________________________________________________________________________
                                                                                               
                                                                                               
 🤝🏻  Connect with Me
-<a href="https://www.instagram.com/erk1nbaew/"><img src=![207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc](https://user-images.githubusercontent.com/108578199/207313807-8142eb70-73e1-49ce-91c1-0119f741952d.png) alt="Панда"></a>
+<a href="https://www.instagram.com/erk1nbaew/"><img src=![image](https://user-images.githubusercontent.com/108578199/207313807-8142eb70-73e1-49ce-91c1-0119f741952d.png) alt="Панда"></a>
 
 
 
