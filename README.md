@@ -20,7 +20,8 @@
 ![image](https://user-images.githubusercontent.com/108578199/207300428-2ec55d33-da4d-49db-a8d7-0c97bd6e1867.png)  ![image](https://user-images.githubusercontent.com/108578199/207249375-3c0f472c-e871-40da-af20-c51aa51bd2e5.png)
 ![image](https://user-images.githubusercontent.com/108578199/207250264-6af5d82d-8547-4d90-96e0-dca771d2bd06.png)  ![image](https://user-images.githubusercontent.com/108578199/207298040-98a2e8b9-3ec4-4ba1-aa43-7bf31eb28966.png)   ![image](https://img.shields.io/badge/-aigrambot-informational)           
 
-                                                                                                                  ![Night-Coding](https://user-images.githubusercontent.com/108578199/207301765-9825cd34-5fec-4cdc-bcad-79ef4bc7695c.gif)
-                                                                                                                             
+       
+                                                                     ![Night-Coding](https://user-images.githubusercontent.com/108578199/207307941-db5ca547-c2b7-4aa1-b121-dbaa56a7e531.gif)
+                                                                                                   
 
 
