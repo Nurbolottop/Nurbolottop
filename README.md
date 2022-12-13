@@ -25,5 +25,5 @@ ________________________________________________________________________________
 🤝🏻  Connect with Me
 <a href="https://www.instagram.com/erk1nbaew/"><img src=![image](https://user-images.githubusercontent.com/108578199/207313807-8142eb70-73e1-49ce-91c1-0119f741952d.png) alt="Панда"></a>
 
-
+<img src="https://camo.githubusercontent.com/81b49e6f1a5ab343d64e68ecd4be27aa3d34557130b5d18c06758ee042437e9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;">
 
