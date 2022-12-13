@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Nurbolot
 
-<!--
-**Nurbolottop/Nurbolottop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Nurbolot Erkinbaev](https://user-images.githubusercontent.com/108578199/207243682-11dab3f3-b079-4817-8a75-5279b4273003.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
