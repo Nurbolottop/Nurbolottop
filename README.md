@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 <details>
  
-![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)[1]][1]
+![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)
  
 [1]: https://www.instagram.com/erk1nbaew/
  
