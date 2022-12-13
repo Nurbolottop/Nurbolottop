@@ -17,7 +17,8 @@
 
 
 ![image](https://img.shields.io/badge/-telegram-blue) ![image](https://user-images.githubusercontent.com/108578199/207296011-bd25e675-cf99-426c-b70a-c15827ffbea3.png)
-![image](https://user-images.githubusercontent.com/108578199/207249146-11285c44-3a98-4a8c-8ad4-0920e2fe55c4.png) ![image](https://userimages.githubusercontent.com/108578199/207249292-96a53920-5785-4cfb-8b73-0afd8599ba49.png)
+![image](https://user-images.githubusercontent.com/108578199/207249146-11285c44-3a98-4a8c-8ad4-0920e2fe55c4.png) 
+![image](https://userimages.githubusercontent.com/108578199/207249292-96a53920-5785-4cfb-8b73-0afd8599ba49.png)
 ![image](https://user-images.githubusercontent.com/108578199/207249375-3c0f472c-e871-40da-af20-c51aa51bd2e5.png) ![image](https://user-images.githubusercontent.com/108578199/207250264-6af5d82d-8547-4d90-96e0-dca771d2bd06.png) ![image](https://user-images.githubusercontent.com/108578199/207298040-98a2e8b9-3ec4-4ba1-aa43-7bf31eb28966.png)       ![Night-Coding](https://user-images.githubusercontent.com/108578199/207250583-3ece1137-4092-4339-9385-dbc90731aed0.gif)
 
 
