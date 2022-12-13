@@ -24,5 +24,5 @@ ________________________________________________________________________________
                                                                                               
 🤝🏻  Connect with Me
 
-![image](https://user-images.githubusercontent.com/108578199/207309145-5f046fbb-6aa7-4103-bf35-c22d1d773fea.png)
+![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)
 
