@@ -16,11 +16,7 @@
 ⚒️ Tech Stack
 
 
-![image](https://img.shields.io/badge/-telegram-blue)
-
-![image](https://user-images.githubusercontent.com/108578199/207296011-bd25e675-cf99-426c-b70a-c15827ffbea3.png)
-
-![image](https://user-images.githubusercontent.com/108578199/207249146-11285c44-3a98-4a8c-8ad4-0920e2fe55c4.png)  
+![image](https://img.shields.io/badge/-telegram-blue)    ![image](https://user-images.githubusercontent.com/108578199/207296011-bd25e675-cf99-426c-b70a-c15827ffbea3.png)   ![image](https://user-images.githubusercontent.com/108578199/207249146-11285c44-3a98-4a8c-8ad4-0920e2fe55c4.png)  
 
 ![image](https://user-images.githubusercontent.com/108578199/207300428-2ec55d33-da4d-49db-a8d7-0c97bd6e1867.png)
 
