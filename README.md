@@ -23,5 +23,5 @@ ________________________________________________________________________________
                                                                                               
                                                                                               
 🤝🏻  Connect with Me
-<a href="https://www.instagram.com/erk1nbaew/" ![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)/>
-<li><a href="https://www.instagram.com/erk1nbaew/" title="![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)"><i class="![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)">![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)</i></a></li>
+<a href="https://www.instagram.com/erk1nbaew/" class = ![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)/>
+
