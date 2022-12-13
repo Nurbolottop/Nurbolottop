@@ -23,6 +23,5 @@ ________________________________________________________________________________
                                                                                               
                                                                                               
 🤝🏻  Connect with Me
-
-![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)
+<a href="https://www.instagram.com/erk1nbaew/" ![image](https://user-images.githubusercontent.com/108578199/207309241-1f502dc7-03a9-4d61-add5-5f8a932de1dc.png)/>
 
