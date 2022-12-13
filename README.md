@@ -24,4 +24,5 @@ ________________________________________________________________________________
                                                                                               
 ⚙️ GitHub Analytics
 
+![image](https://user-images.githubusercontent.com/108578199/207308474-070f4674-d5b6-44f3-858c-91a439e0dac0.png)
 
