@@ -13,7 +13,7 @@
 - 😄 Please have a look at my <a href="https://drive.google.com/file/d/1OXn6lGyzfrYCM4Tf_mR2oI3yKU6R-t43/view?usp=sharing" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 
-![image](https://user-images.githubusercontent.com/108578199/207250787-c1c51be3-6577-4c42-9078-ad02c93c12a1.png)  Tech Stack
+<img src=![image](https://user-images.githubusercontent.com/108578199/207250787-c1c51be3-6577-4c42-9078-ad02c93c12a1.png) width = "10px'/> Tech Stack
 
 
 ![image](https://user-images.githubusercontent.com/108578199/207249146-11285c44-3a98-4a8c-8ad4-0920e2fe55c4.png) ![image](https://user-images.githubusercontent.com/108578199/207249292-96a53920-5785-4cfb-8b73-0afd8599ba49.png)![image](https://user-images.githubusercontent.com/108578199/207249375-3c0f472c-e871-40da-af20-c51aa51bd2e5.png)![image](https://user-images.githubusercontent.com/108578199/207250264-6af5d82d-8547-4d90-96e0-dca771d2bd06.png)                             ![Night-Coding](https://user-images.githubusercontent.com/108578199/207250583-3ece1137-4092-4339-9385-dbc90731aed0.gif)
