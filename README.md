@@ -11,7 +11,7 @@
 -  I’m looking for help with ...
 - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - 📫 You can shoot me an email at erk1nbaevw2711@gmail.com! I'll try to respond as soon as I can.
-- 😄 Please have a look at my <a href="https://drive.google.com/file/d/1OXn6lGyzfrYCM4Tf_mR2oI3yKU6R-t43/view?usp=sharing" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
+- 😄 Please have a look at my <a href="[https://drive.google.com/file/d/1OXn6lGyzfrYCM4Tf_mR2oI3yKU6R-t43/view?usp=sharing](https://drive.google.com/file/d/11yF-LQgItO-T_4k_5rYhhuoF1C507Nkw/view?usp=sharing)" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!
 
 
 ⚒️ Tech Stack
